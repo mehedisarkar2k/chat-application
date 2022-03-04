@@ -1,7 +1,7 @@
 {
   "name": "chat-application",
   "version": "1.0.0",
-  "description": "This is a simple chat application learning node express js from learn with sumit",
+  "description": "This is a simple chat application for learning node and express js from learn with sumit",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
